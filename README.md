@@ -43,7 +43,7 @@
 
 ## 4. EEG Seizure Detection GUI
 > LSTM/CNN/XGBoost pipelines (90.5% acc, AUC 0.96) + real‑time Tkinter demo.
-
+> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-Seizure-Detection-GUI/blob/main/Official%20Report%20-%20two%20column%20version.pdf) 
 ## 5. Kaggle Liver Cirrhosis Prediction (3rd Place)
 > Imputation, domain‑informed feature engineering, Optuna‑tuned XGBoost ensemble.
 
