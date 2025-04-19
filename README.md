@@ -54,7 +54,7 @@
 > - [![Club Website](https://img.shields.io/badge/View-Project_Images-228B22?style=for-the-badge&logo=adobe-acrobat-reader)](https://lhneurotech.com/events)
 
 ## 7. Additional Neurotech Platforms
-> EOG/EMG/EEG (hydrogel, bio‑adhesive, E‑tattoo, in‑ear), SEM, 3 T fMRI, tFUS, rTMS, Neurable.
+> Research Experience in EOG/EMG/EEG (hydrogel, bio‑adhesive, E‑tattoo, in‑ear), SEM, 3 T fMRI, tFUS, rTMS, Neurable.
 > - [![Image](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1nB6Z6WAxA1DnGyyUDow7wylYVr0DzEw3/view?usp=sharing)
 
 ## 8. Grant Writing Experience
