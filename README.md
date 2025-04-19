@@ -68,7 +68,7 @@
 > Solo photo exhibit; OpenCV & P5.js web artworks; Ethereum‑NFT deployments.
 > - [![Digital Blooming Video](https://img.shields.io/badge/Watch-Project_Video-0004FF?style=for-the-badge&logo=youtube)](https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:944710?tab=overview)
 > - [![My 2000 Days in Jiu-jitsu](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1Hgw_ErDUmz4klgJtFJInKvCHRTiRbPlB/view?usp=drive_link)
-> - [![Solo Photo Exhibition & Publication](https://img.shields.io/badge/View-Publication-808080?style=for-the-badge&logo=adobe-acrobat-reader)](https://m.snvision.newsa.kr/a.html?uid=15072)
+> - [![Solo Photo Exhibition & Publication](https://img.shields.io/badge/Exhibition-Publication-808080?style=for-the-badge&logo=adobe-acrobat-reader)](https://m.snvision.newsa.kr/a.html?uid=15072)
 ---
 
 🔗 **Explore the code:** [github.com/your-username/your-repo](https://github.com/your-username/your-repo)  
