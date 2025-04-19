@@ -22,8 +22,9 @@
 
 ---
 
-## [1. DARPA tFUS Closed‑Loop Sleep Modulation](https://github.com/tonychae01/DARPA-Wearable-tFUS-Closed-Loop-Sleep-Modulation-Project)
+## 1. DARPA tFUS Closed‑Loop Sleep Modulation
 > High‑density EEG + wearable tFUS for real‑time sleep staging & stimulation.
+>![Static Badge](https://img.shields.io/badge/Github%20Repo%3A)(https://github.com/tonychae01/DARPA-Wearable-tFUS-Closed-Loop-Sleep-Modulation-Project)
 
 ## 2. NASA Ventilatory Threshold GUI Tools
 > Automated VT detection in MATLAB/R, cutting manual analysis by 97%.
