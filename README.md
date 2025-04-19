@@ -69,5 +69,6 @@
 > - [![Solo Photo Exhibition & Publication](https://img.shields.io/badge/Exhibition-Publication-808080?style=for-the-badge&logo=adobe-acrobat-reader)](https://m.snvision.newsa.kr/a.html?uid=15072)
 ---
 
-🔗 **Explore the code:** [github.com/your-username/your-repo](https://github.com/your-username/your-repo)  
-🎥 **Watch the walkthrough:** [youtu.be/your-video-link](https://youtu.be/your-video-link)
+🔗 **Explore the code:** Click Badges!!
+
+
