@@ -29,13 +29,13 @@
 ## 2. NASA Ventilatory Threshold GUI Tools
 > Automated VT detection in MATLAB/R, cutting manual analysis by 97%.
 
-## 3. Peripheral Nerve Signal Analysis
+### 3. Peripheral Nerve Signal Analysis
 > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
 
-## 4. EMG Signal Analysis
+### 4. EMG Signal Analysis
 > Band‑pass/Notch filtering + MAV/ZCR features & run‑wise LDA/RF decoding.
 
-## 5. Longitudinal EEG‑MI Training & Plasticity
+### 5. Longitudinal EEG‑MI Training & Plasticity
 > 448‑dim PSD scalograms, Fisher scoring, and motor‑imagery learning trends.
 
 ## 6. EEG Seizure Detection GUI
