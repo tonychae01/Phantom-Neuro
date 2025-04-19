@@ -2,8 +2,7 @@
 
 # Tony Chae – Project Portfolio Overview
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)](https://github.com/your-username/your-repo)  
-[![Video Walkthrough](https://img.shields.io/badge/Watch–Video–FF0000?logo=youtube)](https://youtu.be/your-video-link)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)](https://github.com/tonychae01/)  
 
 ---
 
