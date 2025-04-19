@@ -57,7 +57,7 @@
 
 ## 7. Additional Neurotech Platforms
 > EOG/EMG/EEG (hydrogel, bio‑adhesive, E‑tattoo, in‑ear), SEM, 3 T fMRI, tFUS, rTMS, Neurable.
-> - [![Image](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1jYXEaAyFhvfC_agkgxsziYlADxW7sw0q/view?usp=drive_link)
+> - [![Image](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1nB6Z6WAxA1DnGyyUDow7wylYVr0DzEw3/view?usp=sharing)
 > - 
 ## 8. Grant Writing Experience
 > PI on NASA “NeuroFlight” VR‑EEG GUI platform; authored NIH R01 Aim 3.1 (HMM‑driven tFUS).
@@ -66,7 +66,7 @@
 > Solo photo exhibit; OpenCV & P5.js web artworks; Ethereum‑NFT deployments.
 > - [![Digital Blooming Video](https://img.shields.io/badge/Watch-Project_Video-0004FF?style=for-the-badge&logo=youtube)](https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:944710?tab=overview)
 > - [![My 2000 Days in Jiu-jitsu](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1Hgw_ErDUmz4klgJtFJInKvCHRTiRbPlB/view?usp=drive_link)
-> - [![Solo Photo Exhibition & Publication](https://img.shields.io/badge/View-Publication-00500?style=for-the-badge&logo=adobe-acrobat-reader)](https://m.snvision.newsa.kr/a.html?uid=15072)
+> - [![Solo Photo Exhibition & Publication](https://img.shields.io/badge/View-Publication-07200?style=for-the-badge&logo=adobe-acrobat-reader)](https://m.snvision.newsa.kr/a.html?uid=15072)
 ---
 
 🔗 **Explore the code:** [github.com/your-username/your-repo](https://github.com/your-username/your-repo)  
