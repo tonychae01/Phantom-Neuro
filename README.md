@@ -12,8 +12,8 @@
 2. [NASA Ventilatory Threshold GUI Tools](#2-nasa-ventilatory-threshold-gui-tools)
 3. [Neural Prosthetics Projects](#3-neural-prosthetics-projects)
   - [3.1 Peripheral Nerve Signal Analysis](#31-peripheral-nerve-signal-analysis)  
-   - [3.2 EMG Signal Analysis](#32-emg-signal-analysis)  
-   - [3.3 Longitudinal EEG‑MI Training & Plasticity](#33-longitudinal-eeg-mi-training--plasticity)  
+  - [3.2 EMG Signal Analysis](#32-emg-signal-analysis)  
+  - [3.3 Longitudinal EEG‑MI Training & Plasticity](#33-longitudinal-eeg-mi-training--plasticity)  
 4. [EEG Seizure Detection GUI](#4-eeg-seizure-detection-gui)  
 5. [Kaggle Liver Cirrhosis Prediction (3rd Place)](#5-kaggle-liver-cirrhosis-prediction-3rd-place)  
 6. [Brain Pong BCI & Leadership](#6-brain-pong-bci--leadership)  
@@ -36,7 +36,7 @@
   ### 3.1 Peripheral Nerve Signal Analysis
   > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
   
-  ### 3.1 EMG Signal Analysis
+  ### 3.2 EMG Signal Analysis
   > Band‑pass/Notch filtering + MAV/ZCR features & run‑wise LDA/RF decoding.
   
   ### 3.3 Longitudinal EEG‑MI Training & Plasticity
