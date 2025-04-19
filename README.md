@@ -1,5 +1,3 @@
-# Phantom-Neuro
-
 # Tony Chae – Project Portfolio Overview
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)](https://github.com/tonychae01/)  
