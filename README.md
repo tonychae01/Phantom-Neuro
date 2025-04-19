@@ -48,7 +48,7 @@
 > - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Kaggle_ML_Competition?tab=readme-ov-file)
 
 ## 6. Brain Pong BCI & Leadership
-> OpenBCI real‑time ping‑pong, co‑founder of 200+‑member Longhorn Neurotech.
+> Initiated & developed OpenBCI real‑time ping‑pong, co‑founder of 200+ member Longhorn Neurotech. Lead Outreach, Business Partnership, Collaboration with; Neuralink/Microsoft BCI/Paradromics/AFRl/NASA Neuro/Neurable/Rice NT/UW/ICL/UPenn..etc
 > - [![Brain Pong Video](https://img.shields.io/badge/Watch-Project_Video-0004FF?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=zHFV1OunXrM)
 > - [![Club GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/LonghornNeurotech)
 > - [![Club Website](https://img.shields.io/badge/View-Project_Images-228B22?style=for-the-badge&logo=adobe-acrobat-reader)](https://lhneurotech.com/events)
