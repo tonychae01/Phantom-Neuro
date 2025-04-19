@@ -47,6 +47,7 @@
 > - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-Seizure-Detection-GUI/blob/main/Official%20Report%20-%20two%20column%20version.pdf) 
 ## 5. Kaggle Liver Cirrhosis Prediction (3rd Place)
 > Imputation, domain‑informed feature engineering, Optuna‑tuned XGBoost ensemble.
+> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Kaggle_ML_Competition?tab=readme-ov-file)
 
 ## 6. Brain Pong BCI & Leadership
 > OpenBCI real‑time ping‑pong, co‑founder of 200+‑member Longhorn Neurotech.
