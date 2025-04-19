@@ -22,7 +22,7 @@
 ---
 
 ## 1. DARPA tFUS Closed‑Loop Sleep Modulation
-> High‑density EEG + wearable tFUS for real‑time sleep staging & stimulation.
+> Developed Deep Learning Algorithm & Pipeline for High‑density EEG + wearable tFUS for real‑time sleep staging & stimulation.
 > - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/DARPA-Wearable-tFUS-Closed-Loop-Sleep-Modulation-Project)
 
 ## 2. NASA Ventilatory Threshold GUI Tools
