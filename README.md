@@ -51,7 +51,7 @@
 
 ## 6. Brain Pong BCI & Leadership
 > OpenBCI real‑time ping‑pong, co‑founder of 200+‑member Longhorn Neurotech.
-> - [![Brain Pong Video](https://img.shields.io/badge/Watch-Project_Video-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=zHFV1OunXrM)
+> - [![Brain Pong Video](https://img.shields.io/badge/Watch-Project_Video-0000FF?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=zHFV1OunXrM)
 
 ## 7. Additional Neurotech Platforms
 > EOG/EMG/EEG (hydrogel, bio‑adhesive, E‑tattoo, in‑ear), SEM, 3 T fMRI, tFUS, rTMS, Neurable.
