@@ -9,16 +9,17 @@
 ## 📑 Table of Contents
 
 1. [DARPA tFUS Closed‑Loop Sleep Modulation](#1-darpa-tfus-closed-loop-sleep-modulation)
-2. [NASA Ventilatory Threshold GUI Tools](#2-nasa-ventilatory-threshold-gui-tools)  
-3. [Peripheral Nerve Signal Analysis](#3-peripheral-nerve-signal-analysis)  
-4. [EMG Signal Analysis](#4-emg-signal-analysis)  
-5. [Longitudinal EEG‑MI Training & Plasticity](#5-longitudinal-eeg-mi-training--plasticity)  
-6. [EEG Seizure Detection GUI](#6-eeg-seizure-detection-gui)  
-7. [Kaggle Liver Cirrhosis Prediction (3rd Place)](#7-kaggle-liver-cirrhosis-prediction-3rd-place)  
-8. [Brain Pong BCI & Leadership](#8-brain-pong-bci--leadership)  
-9. [Additional Neurotech Platforms](#9-additional-neurotech-platforms)  
-10. [Grant Writing Experience](#10-grant-writing-experience)  
-11. [Digital Art & Multimedia](#11-digital-art--multimedia)  
+2. [NASA Ventilatory Threshold GUI Tools](#2-nasa-ventilatory-threshold-gui-tools)
+3. [Neural Prosthetics Projects](#3-neural-prosthetics-projects)
+  - 3.1 [Peripheral Nerve Signal Analysis](#3-peripheral-nerve-signal-analysis)  
+  - 3.2 [EMG Signal Analysis](#4-emg-signal-analysis)  
+  - 3.3 [Longitudinal EEG‑MI Training & Plasticity](#5-longitudinal-eeg-mi-training--plasticity)  
+4. [EEG Seizure Detection GUI](#4-eeg-seizure-detection-gui)  
+5. [Kaggle Liver Cirrhosis Prediction (3rd Place)](#5-kaggle-liver-cirrhosis-prediction-3rd-place)  
+6. [Brain Pong BCI & Leadership](#6-brain-pong-bci--leadership)  
+7. [Additional Neurotech Platforms](#7-additional-neurotech-platforms)  
+8. [Grant Writing Experience](#8-grant-writing-experience)  
+9. [Digital Art & Multimedia](#9-digital-art--multimedia)  
 
 ---
 
