@@ -30,6 +30,7 @@
 > Automated VT detection in MATLAB/R, cutting manual analysis by 97%.
 
 ## 3. Neural Prosthetics Projects
+> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
   ### 3.1 Peripheral Nerve Signal Analysis
   > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
   
