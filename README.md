@@ -29,31 +29,32 @@
 ## 2. NASA Ventilatory Threshold GUI Tools
 > Automated VT detection in MATLAB/R, cutting manual analysis by 97%.
 
-### 3. Peripheral Nerve Signal Analysis
-> 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
+## 3. Neural Prosthetics Projects
+  ### 3.1 Peripheral Nerve Signal Analysis
+  > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
+  
+  ### 3.1 EMG Signal Analysis
+  > Band‑pass/Notch filtering + MAV/ZCR features & run‑wise LDA/RF decoding.
+  
+  ### 3.3 Longitudinal EEG‑MI Training & Plasticity
+  > 448‑dim PSD scalograms, Fisher scoring, and motor‑imagery learning trends.
 
-### 4. EMG Signal Analysis
-> Band‑pass/Notch filtering + MAV/ZCR features & run‑wise LDA/RF decoding.
-
-### 5. Longitudinal EEG‑MI Training & Plasticity
-> 448‑dim PSD scalograms, Fisher scoring, and motor‑imagery learning trends.
-
-## 6. EEG Seizure Detection GUI
+## 4. EEG Seizure Detection GUI
 > LSTM/CNN/XGBoost pipelines (90.5% acc, AUC 0.96) + real‑time Tkinter demo.
 
-## 7. Kaggle Liver Cirrhosis Prediction (3rd Place)
+## 5. Kaggle Liver Cirrhosis Prediction (3rd Place)
 > Imputation, domain‑informed feature engineering, Optuna‑tuned XGBoost ensemble.
 
-## 8. Brain Pong BCI & Leadership
+## 6. Brain Pong BCI & Leadership
 > OpenBCI real‑time ping‑pong, co‑founder of 200+‑member Longhorn Neurotech.
 
-## 9. Additional Neurotech Platforms
+## 7. Additional Neurotech Platforms
 > EOG/EMG/EEG (hydrogel, bio‑adhesive, E‑tattoo, in‑ear), SEM, 3 T fMRI, tFUS, rTMS, Neurable.
 
-## 10. Grant Writing Experience
+## 8. Grant Writing Experience
 > PI on NASA “NeuroFlight” VR‑EEG GUI platform; authored NIH R01 Aim 3.1 (HMM‑driven tFUS).
 
-## 11. Digital Art & Multimedia
+## 9. Digital Art & Multimedia
 > Solo photo exhibit; OpenCV & P5.js web artworks; Ethereum‑NFT deployments.
 
 ---
