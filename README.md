@@ -28,7 +28,7 @@
 
 ## 2. NASA Ventilatory Threshold GUI Tools
 > Automated VT detection in MATLAB/R, cutting manual analysis by 97%.
-> -[![Project Image](https://img.shields.io/badge/View-Project_Images-ED1C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1p34AuUIlnGTKgJf8T86PWNbPf7NcZTQL/view?usp=drive_link)
+> - [![Project Image](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1p34AuUIlnGTKgJf8T86PWNbPf7NcZTQL/view?usp=drive_link)
 
 ## 3. Neural Prosthetics Projects
 > - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
