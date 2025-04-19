@@ -62,7 +62,8 @@
 ## 8. Grant Writing Experience
 > PI on NASA “NeuroFlight” VR‑EEG GUI platform; authored NIH R01 Aim 3.1 (HMM‑driven tFUS).
 > - [![Grant 1](https://img.shields.io/badge/View-Project_Images- 00000?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1uE6ZHleBZnBjd0w_SMMXw_cOGZSYRRLu/view?usp=drive_link)
-> - [![Grant 1](https://img.shields.io/badge/View-Project_Images- 00000?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/12NUEz-VlpTTnU-jotnxhgBjtpprsCMDS/view?usp=drive_link)
+> - [![Grant 2](https://img.shields.io/badge/View-Project_Images- 00000?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/12NUEz-VlpTTnU-jotnxhgBjtpprsCMDS/view?usp=drive_link)
+
 ## 9. Digital Art & Multimedia
 > Solo photo exhibit; OpenCV & P5.js web artworks; Ethereum‑NFT deployments.
 > - [![Digital Blooming Video](https://img.shields.io/badge/Watch-Project_Video-0004FF?style=for-the-badge&logo=youtube)](https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:944710?tab=overview)
