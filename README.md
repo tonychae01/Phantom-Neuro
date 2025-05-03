@@ -39,7 +39,7 @@
   ### 3.2 EMG Signal Analysis
   > Band‑pass/Notch filtering + MAV/ZCR features & run‑wise LDA/RF decoding.
   
-  ### 3.3 Longitudinal EEG‑MI Plasticity
+  ### 3.3 Longitudinal EEG-MI Plasticity
   > 448‑dim PSD scalograms, Fisher scoring, and motor‑imagery learning trends.
 
   ### 3.4 EEG-rTMS Source Localization MI-BCI Project
