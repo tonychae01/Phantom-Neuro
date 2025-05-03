@@ -11,7 +11,7 @@
 3. [Neural Prosthetics Projects](#3-neural-prosthetics-projects)
   - [3.1 Peripheral Nerve Signal Analysis](#31-peripheral-nerve-signal-analysis)  
   - [3.2 EMG Signal Analysis](#32-emg-signal-analysis)  
-  - [3.3 Longitudinal EEG‑MI Training & Plasticity](#33-longitudinal-eeg‑mi-plasticity)
+  - [3.3 Longitudinal EEG‑MI Training & Plasticity](#33-Longitudinal-EEG‑MI-Plasticity)
   - [3.4 Evaluating the Impact of Inhibitory rTMS on Source-Localized BCI Training for Motor Imagery](#34-EEG-rTMS-Source-Localization-MI-BCI-Project)
 4. [EEG Seizure Detection GUI](#4-eeg-seizure-detection-gui)  
 5. [Kaggle Liver Cirrhosis Prediction (3rd Place)](#5-kaggle-liver-cirrhosis-prediction-3rd-place)  
@@ -31,8 +31,8 @@
 > - [![Project Image](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1p34AuUIlnGTKgJf8T86PWNbPf7NcZTQL/view?usp=drive_link)
 
 ## 3. Neural Prosthetics Projects
-> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
-> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-171717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-rTMS-project)
+> - [![GitHub Repository-1](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
+> - [![GitHub Repository-2](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-rTMS-project)
   ### 3.1 Peripheral Nerve Signal Analysis
   > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
   
