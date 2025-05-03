@@ -11,7 +11,8 @@
 3. [Neural Prosthetics Projects](#3-neural-prosthetics-projects)
   - [3.1 Peripheral Nerve Signal Analysis](#31-peripheral-nerve-signal-analysis)  
   - [3.2 EMG Signal Analysis](#32-emg-signal-analysis)  
-  - [3.3 Longitudinal EEG‑MI Training & Plasticity](#33-longitudinal-eeg-mi-training--plasticity)  
+  - [3.3 Longitudinal EEG‑MI Training & Plasticity](#33-longitudinal-eeg-mi-training--plasticity)
+  - [3.4 Evaluating the Impact of Inhibitory rTMS on Source-Localized BCI Training for Motor Imagery](#34-EEG-rTMS-Source-Localization-MI--BCI-Project)
 4. [EEG Seizure Detection GUI](#4-eeg-seizure-detection-gui)  
 5. [Kaggle Liver Cirrhosis Prediction (3rd Place)](#5-kaggle-liver-cirrhosis-prediction-3rd-place)  
 6. [Brain Pong BCI & Leadership](#6-brain-pong-bci--leadership)  
@@ -31,6 +32,7 @@
 
 ## 3. Neural Prosthetics Projects
 > - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
+> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-rTMS-project)
   ### 3.1 Peripheral Nerve Signal Analysis
   > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
   
@@ -39,6 +41,9 @@
   
   ### 3.3 Longitudinal EEG‑MI Training & Plasticity
   > 448‑dim PSD scalograms, Fisher scoring, and motor‑imagery learning trends.
+
+  ### 3.4 EEG-rTMS Source Localization MI-BCI Project
+  > inhibitory rTMS, Riemannian Decoder, Source Localization, Motor Imagery BCI, Feature Analysis
 
 ## 4. EEG Seizure Detection GUI
 > LSTM/CNN/XGBoost pipelines (90.5% acc, AUC 0.96) + real‑time Tkinter demo.
