@@ -31,8 +31,8 @@
 > - [![Project Image](https://img.shields.io/badge/View-Project_Images-E12C24?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1p34AuUIlnGTKgJf8T86PWNbPf7NcZTQL/view?usp=drive_link)
 
 ## 3. Neural Prosthetics Projects
-> - [![GitHub Repository-1](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
-> - [![GitHub Repository-2](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-rTMS-project)
+> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-1-281717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
+> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-2-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-rTMS-project)
   ### 3.1 Peripheral Nerve Signal Analysis
   > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
   
