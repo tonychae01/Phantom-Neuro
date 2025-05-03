@@ -32,7 +32,6 @@
 
 ## 3. Neural Prosthetics Projects
 > - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Neural-Engineering-Project)
-> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-808080?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-rTMS-project)
   ### 3.1 Peripheral Nerve Signal Analysis
   > 32 kHz PSD filtering & MAV/VAR feature extraction for 4‑class classification.
   
@@ -44,6 +43,7 @@
 
   ### 3.4 EEG-rTMS Source Localization MI-BCI Project
   > inhibitory rTMS, Riemannian Decoder, Source Localization, Motor Imagery BCI, Feature Analysis
+> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/EEG-rTMS-project)
 
 ## 4. EEG Seizure Detection GUI
 > LSTM/CNN/XGBoost pipelines (90.5% acc, AUC 0.96) + real‑time Tkinter demo.
